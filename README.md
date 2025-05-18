@@ -1,12 +1,5 @@
 # 🛒 BigMart Sales Data Analysis
 
-**Course**: ADTA 5240 – Harvesting, Storing and Retrieving Data  
-**Instructor**: Prof. Zeynep Orhan  
-**Group**: Group 1  
-**Project Type**: End-to-end sales analysis, storage, and visualization using BigMart dataset
-
----
-
 ## 📌 Introduction
 
 To support data-driven decision-making in retail, this project analyzes BigMart’s sales dataset to identify key trends and patterns. Our goal is to uncover factors that influence store performance, product sales, and revenue across various outlet types and product categories.
